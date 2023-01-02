@@ -9,5 +9,9 @@ it allows users to ask the AI for assistance with JavaScript, React, or any othe
 provide it with code and have it translate it to another programming language, among other things.
 
 
-url link: https://codelab-chat.vercel.app/!
-[chat gpt3](https://user-images.githubusercontent.com/59840966/210267382-b1f68344-3666-42e8-bb86-e642f1d26a50.png)
+url link: https://codelab-chat.vercel.app/
+
+
+![chat gpt3](https://user-images.githubusercontent.com/59840966/210267527-56175cf6-d544-4ad9-947d-8d8b1d406564.png)
+
+
